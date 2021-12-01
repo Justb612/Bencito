@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.7eb916a6.chunk.css",
+    "main.js": "/react-deploy/static/js/main.ad2a72ef.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.ad2a72ef.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.90802e0a.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.90802e0a.js.map",
+    "static/js/2.3acd2566.chunk.js": "/react-deploy/static/js/2.3acd2566.chunk.js",
+    "static/js/2.3acd2566.chunk.js.map": "/react-deploy/static/js/2.3acd2566.chunk.js.map",
+    "static/js/3.ec64db60.chunk.js": "/react-deploy/static/js/3.ec64db60.chunk.js",
+    "static/js/3.ec64db60.chunk.js.map": "/react-deploy/static/js/3.ec64db60.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "static/css/main.7eb916a6.chunk.css.map": "/react-deploy/static/css/main.7eb916a6.chunk.css.map",
+    "static/js/2.3acd2566.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.3acd2566.chunk.js.LICENSE.txt",
+    "static/media/BaseCheese.2c5ba8bb.png": "/react-deploy/static/media/BaseCheese.2c5ba8bb.png",
+    "static/media/Basil.5387fca4.png": "/react-deploy/static/media/Basil.5387fca4.png",
+    "static/media/Mushroom.8bb1079b.png": "/react-deploy/static/media/Mushroom.8bb1079b.png",
+    "static/media/Olive.0da28a3b.png": "/react-deploy/static/media/Olive.0da28a3b.png",
+    "static/media/Pineapple.33c89c63.png": "/react-deploy/static/media/Pineapple.33c89c63.png",
+    "static/media/PizzaBase.b01ddacc.png": "/react-deploy/static/media/PizzaBase.b01ddacc.png",
+    "static/media/PizzaMan.c91aed81.png": "/react-deploy/static/media/PizzaMan.c91aed81.png",
+    "static/media/Tomato.ed6f5243.png": "/react-deploy/static/media/Tomato.ed6f5243.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90802e0a.js",
+    "static/js/2.3acd2566.chunk.js",
+    "static/css/main.7eb916a6.chunk.css",
+    "static/js/main.ad2a72ef.chunk.js"
+  ]
+}
