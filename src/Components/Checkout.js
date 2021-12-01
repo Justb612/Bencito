@@ -24,7 +24,10 @@ export default function Checkout({ ingredients }) {
               )
             );
           })}
-          <button className="proceedToCheckout" onClick={() => navigate("/")}>
+          <button
+            className="proceedToCheckout"
+            onClick={() => navigate("/Bencito")}
+          >
             Go Back
           </button>
           <button
