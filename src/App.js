@@ -32,7 +32,7 @@ function App() {
             element={<Checkout ingredients={ingredients} />}
           />
           <Route
-            path="/Bencito"
+            path="/"
             element={
               <Customize
                 ingredients={ingredients}
