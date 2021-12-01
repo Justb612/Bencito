@@ -14,6 +14,7 @@ function App() {
     tomato: false,
   });
 
+  console.log("");
   useEffect(() => {
     const data = localStorage.getItem("ingredients");
     if (data) {
