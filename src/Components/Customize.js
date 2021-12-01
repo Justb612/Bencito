@@ -12,7 +12,6 @@ import { useNavigate } from "react-router-dom";
 export default function Customize({ ingredients, setIngredients }) {
   let navigate = useNavigate();
   const onChange = (event, name) => {
-    console.log(localStorage);
     let newIngredients = JSON.parse(JSON.stringify(ingredients));
     newIngredients[name] = event;
     setIngredients(newIngredients);
